@@ -1,0 +1,2 @@
+# aoi-INTERACTION2025-shortPaper
+interaction 2025に提出するshortpaperのリポジトリ
