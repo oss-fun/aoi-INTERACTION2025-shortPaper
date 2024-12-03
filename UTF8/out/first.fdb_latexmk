@@ -1,11 +1,11 @@
 # Fdb version 4
-["dvipdf"] 1733135420.68832 "out/first.dvi" "out/first.pdf" "out/first" 1733135421.73879 0
-  "out/first.dvi" 1733135420 61284 d8aa5efa3ae6562395cbccff334fba2c "latex"
+["dvipdf"] 1733137195.93916 "out/first.dvi" "out/first.pdf" "out/first" 1733137196.78765 0
+  "out/first.dvi" 1733137195 15652 53aa39f12c5bb8d25d8366bff076a43c "latex"
   (generated)
   "out/first.pdf"
   (rewritten before read)
-["latex"] 1733135419.01049 "c:/Users/Ninge/Desktop/LaTex/UTF8/first.tex" "out/first.dvi" "first" 1733135421.73535 0
-  "c:/Users/Ninge/Desktop/LaTex/UTF8/first.tex" 1733135418 44897 ab2f1a0730b2b2d88e7853183886ff97 ""
+["latex"] 1733137194.91556 "c:/Users/Ninge/Desktop/LaTex/UTF8/first.tex" "out/first.dvi" "first" 1733137196.78535 0
+  "c:/Users/Ninge/Desktop/LaTex/UTF8/first.tex" 1733137192 12848 6132593cdc2f489a6453d7c2038cca27 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1732786058 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm" 1732788673 468 53f854284f6afa6c36aaa2d1090ecc12 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm" 1732788673 468 53f854284f6afa6c36aaa2d1090ecc12 ""
@@ -13,8 +13,6 @@
   "c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm" 1732788673 856 39c171483fe1bb7d0e1368980c0c205b ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1732784947 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1732784947 1324 c910af8c371558dc20f2d7822f66fe64 ""
-  "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm" 1732784947 1336 3125ccb448c1a09074e3aa4a9832f130 ""
-  "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm" 1732784947 1332 1fde11373e221473104d6cc5993f046e ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm" 1732784947 1328 5442e22a7072966dbaf88ca900acf3f0 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1732784947 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1732784947 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -39,8 +37,6 @@
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm" 1732784947 1116 25a7bf822c58caf309a702ef79f4afbb ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmti9.tfm" 1732784947 1476 cccc6cc4935c18ec3d5623b77ecb8b74 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm" 1732784947 768 1321e9409b4137d6fb428ac9dc956269 ""
-  "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm" 1732784947 768 d7b9a2629a0c353102ad947dc9221d49 ""
-  "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmtt9.tfm" 1732784947 764 c98a2af25c99b73a368cf7336e255190 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm" 1732787005 520 82a3d37183f34b6eb363a161dfc002c2 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/latex-fonts/lasy5.tfm" 1732787005 520 d082ac03a1087bc1ec2a06e24a9f68c0 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm" 1732787005 520 4889cce2180234b97cad636b6039c722 ""
@@ -63,10 +59,10 @@
   "c:/texlive/2024/texmf-dist/web2c/texmf.cnf" 1732783930 42021 a58d36c7ede3d2fc9f93da62d691ddff ""
   "c:/texlive/2024/texmf-var/web2c/euptex/platex.fmt" 1732790776 3285692 9c928b73bd75f923050ddaaa26afb919 ""
   "c:/texlive/2024/texmf.cnf" 1732790514 713 e69b156964470283e0530f5060668171 ""
-  "first.tex" 1733135418 44897 ab2f1a0730b2b2d88e7853183886ff97 ""
+  "first.tex" 1733137192 12848 6132593cdc2f489a6453d7c2038cca27 ""
   "ipsj.cls" 1733124187 140382 5973a916942d5571ea00fe1d62ea1b43 ""
   "ipsjtech.sty" 1733124188 6577 0f10cf857b2d1ff1fc4ee5d660a25e81 ""
-  "out/first.aux" 1733135420 7472 0fe4e9197356b7fcbd4e7cf2d96fa360 "latex"
+  "out/first.aux" 1733137195 2384 c8bd15848317af93328d61c86f7edee5 "latex"
   (generated)
   "out/first.aux"
   "out/first.dvi"
